@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Demo of Part 1 of the Application](part1demo.gif) 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
